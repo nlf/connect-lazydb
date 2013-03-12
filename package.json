@@ -2,10 +2,10 @@
     "name": "connect-lazydb",
     "description": "a connect session store using lazydb",
     "author": "Nathan LaFreniere",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "main": "./index.js",
-    "repository": "git://github.com/nathan-lafreniere/connect-lazydb.git",
-    "homepage": "http://github.com/nathan-lafreniere/connect-lazydb",
+    "repository": "git://github.com/nlf/connect-lazydb.git",
+    "homepage": "http://github.com/nlf/connect-lazydb",
     "keywords": [ "database", "nosql", "store", "json", "connect", "session" ],
     "dependencies": {
         "lazydb": ""
